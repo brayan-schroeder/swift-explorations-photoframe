@@ -1,2 +1,2 @@
 # swift-explorations-photoframe
-Swift Explorations - PhotoFrame
+Swift Explorations - PhotoFrame (Study Case)
